@@ -1,5 +1,7 @@
 # QEC Implementation
 
+Exercise lab to understand quantum error correction code and fault tolerant quantum computation. I implement those algorithm in IBM *qiskit*, will also do Rigetti, QuTip and Cirq
+
 In EE 514, Prof. Daniel Lidar suggests us to use IBM *qiskit* package to implement error correction code as the final project of the course. I think it is interesting and beneficial to study and implement those code and here is a list of his suggestions:
 
 1. Implementation of quantum error detection using the family of [[n,1,3]] QECCs, with n=3,5,7. For n=3 implement both the bit and phase flip codes. 
